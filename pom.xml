@@ -53,10 +53,10 @@
         </pluginManagement>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:balladeop52no4/pet.git</developerConnection>
+    </scm>
 
-  <scm>
-    <tag>sfg-pet-clinic-0.0.3</tag>
-  </scm>
 </project>
 
 
